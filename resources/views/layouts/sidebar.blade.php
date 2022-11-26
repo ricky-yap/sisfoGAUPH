@@ -82,4 +82,22 @@
           </a>
         </li>
 
+        <li class="nav-item">
+          <a href="{{ asset('admin/room') }}" class="nav-link">
+            <i class="nav-icon fas fa-user"></i>
+            <p>
+              Room
+            </p>
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a href="{{ asset('admin/location') }}" class="nav-link">
+            <i class="nav-icon fas fa-user"></i>
+            <p>
+              Location
+            </p>
+          </a>
+        </li>
+
 </ul>
